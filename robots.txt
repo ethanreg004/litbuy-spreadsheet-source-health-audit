@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ethanreg004.github.io/litbuy-spreadsheet-source-health-audit/sitemap.xml
